@@ -1,0 +1,186 @@
+[
+	{
+		  "question": "What color is the sky?",
+		  "answers": ["blue"]
+	},
+	{
+      "question": "How many letters are there in the alphabet?",
+      "answers": ["26", "twenty-six", "twenty six", "twentysix"]
+  },
+  {
+      "question": "What is the rarest M&M color?",
+      "answers": ["brown"]
+  },
+  {
+      "question": "In a website browser address bar, what does “www” stand for?",
+      "answers": ["World Wide Web"]
+	},
+	{
+      "question": "In what year were the first Air Jordan sneakers released?",
+      "answers": ["1984"]
+  },
+  {
+      "question": "In a game of bingo, which number is represented by the phrase “two little ducks”?",
+      "answers": ["22"]
+  },
+  {
+      "question": "According to Greek mythology who was the first woman on earth?",
+      "answers": ["Pandora"]
+	},
+	{
+      "question": "Which African country was formerly known as Abyssinia?",
+      "answers": ["Ethiopia"]
+  },
+  {
+      "question": " In which European city would you find Orly airport?",
+      "answers": ["Paris"]
+  },
+  {
+      "question": "Which singer’s real name is Stefani Joanne Angelina Germanotta?",
+      "answers": ["Lady Gaga"]
+	},
+	{
+      "question": "The only known monotremes in the animal kingdom are the echidna and which other creature?",
+      "answers": ["The platypus", "platypus"]
+  },
+  {
+      "question": "Fissures, vents and plugs are all associated with which geological feature?",
+      "answers": ["Volcanos"]
+  },
+  {
+      "question": "Which Dutch artist painted “Girl with a Pearl Earring”?",
+      "answers": ["Vermeer"]
+  },
+  {
+      "question": "Which country consumes the most chocolate per capita?",
+      "answers": ["Switzerland"]
+	},
+	{
+      "question": "What was the first toy to be advertised on television?",
+      "answers": ["Mr. Potato Head", "Potato Head"]
+  },
+  {
+      "question": "What is the loudest animal on Earth?",
+      "answers": ["The sperm whale", "sperm whale"]
+  },
+  {
+      "question": "What is the tiny piece at the end of a shoelace called?",
+      "answers": ["An aglet", "aglet"]
+  },
+	{
+      "question": "In the United Kingdom, what is the day after Christmas known as?",
+      "answers": ["Boxing Day"]
+  },
+  {
+      "question": "Which of Shakespeare’s plays is the longest?",
+      "answers": ["Hamlet"]
+  },
+  {
+      "question": "What is the tallest breed of dog in the world?",
+      "answers": ["The Great Dane", "great dane"]
+	},
+	{
+		  "question": "What is the softest mineral in the world?",
+		  "answers": ["Talc"]
+  },
+  {
+      "question": "What is the world’s biggest island?",
+      "answers": ["Greenland"]
+  },
+  {
+    "question": "Which British girl group had a member by the name of Mel B?",
+    "answers": ["Spice Girls"]
+  },
+  {
+      "question": "How many hearts does an octopus have?",
+      "answers": ["3", "Three"]
+  },
+  {
+      "question": "How many eyes does a bee have?",
+      "answers": ["5", "Five"]
+  },
+  {
+      "question": "What was the name of the rock band formed by Jimmy Page?",
+      "answers": ["Led Zeppelin"]
+  },
+  {
+      "question": "Which mammal has no vocal cords?",
+      "answers": ["Giraffe"]
+  },
+  {
+      "question": "What type of music has been shown to help plants grow better and faster?",
+      "answers": ["Classical"]
+  },
+  {
+      "question": "Power outages in the US are mostly caused by what?",
+      "answers": ["Squirrels"]
+  },
+  {
+      "question": "What is the painting ‘La Gioconda’ more usually known as?",
+      "answers": ["Mona Lisa"]
+  },
+  {
+      "question": "Ludwig Van Beethoven was born in 1770 in which city?",
+      "answers": ["Berlin"]
+  },
+  {
+      "question": "What’s the most expensive home in the world?",
+      "answers": ["Buckingham Palace"]
+  },
+  {
+      "question": "What did the Crocodile swallow in Peter Pan?",
+      "answers": ["An alarm clock"]
+  },
+  {
+      "question": "What’s the hardest rock?",
+      "answers": ["A diamond", "Diamond"]
+  },
+  {
+      "question": "What is the national dish of Spain?",
+      "answers": ["Paella"]
+  },
+  {
+      "question": "Which horoscope sign has a crab?",
+      "answers": ["Cancer"]
+  },
+  {
+      "question": "The Statue of Liberty was given to the US by which country?",
+      "answers": ["France"]
+  },
+  {
+      "question": "Which US city is known as the City of Brotherly Love?",
+      "answers": ["Philadelphia"]
+  },
+  {
+      "question": "How many children does Oprah Winfrey have?",
+      "answers": ["Zero", "0"]
+  },
+  {
+      "question": "Where is the Sea of Tranquility located?",
+      "answers": ["The moon"]
+  },
+  {
+      "question": "What country has the world’s most ancient forest?",
+      "answers": ["Australia"]
+  },
+  {
+      "question": "What color jersey is worn by the winners of each stage of the Tour De France?",
+      "answers": ["Yellow"]
+  },
+  {
+      "question": "When did the Cold War end?",
+      "answers": ["1989"]
+  },
+  {
+      "question": "Your mom",
+      "answers": ["Gay"]
+  },
+  {
+    "question": "How many basketball players are on the court for one team?",
+    "answers": ["5", "Five"]
+  },
+  {
+    "question": "What year was the very first model of the iPhone released?",
+    "answers": ["2007"]
+  }
+]
